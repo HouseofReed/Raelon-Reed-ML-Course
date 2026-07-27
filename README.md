@@ -16,24 +16,24 @@ This portfolio documents my progress throughout the course. Each lab and major a
 
 ### Machine Learning Labs
 
-- **Lab 02 – Tools of the Trade**
-- **Lab 03 – Introduction to Machine Learning**
-- **Lab 04 – Exploratory Data Analysis**
-- **Lab 05 – Data Preparation**
-- **Lab 06 – Regression and Classification**
-- **Lab 07 – Model Evaluation**
-- **Lab 08 – Bias-Variance Tradeoff**
-- **Lab 09 – Ensemble Methods**
-- **Lab 10 – Unsupervised Learning**
-- **Lab 11 – Hyperparameter Tuning and AutoML**
-- **Lab 12 – Ethics, Fairness, and Bias**
-- **Lab 13 – Building Machine Learning Pipelines**
+- Lab 02 – Tools of the Trade
+- Lab 03 – Introduction to Machine Learning
+- Lab 04 – Exploratory Data Analysis
+- Lab 05 – Data Preparation
+- Lab 06 – Regression and Classification
+- Lab 07 – Model Evaluation
+- Lab 08 – Bias-Variance Tradeoff
+- Lab 09 – Ensemble Methods
+- Lab 10 – Unsupervised Learning
+- Lab 11 – Hyperparameter Tuning and AutoML
+- Lab 12 – Ethics, Fairness, and Bias
+- Lab 13 – Building Machine Learning Pipelines
 
 ### Assignments & Projects
 
-- **A01 – Getting Started with GitHub & Your First Repository**
-- **Midterm Project – Data Storytelling**
-- **Final Project – Sentiment Analysis of a Product or Service** *(In Progress)*
+- A01 – Getting Started with GitHub & Your First Repository
+- Midterm Project – Data Storytelling
+- Final Project – Sentiment Analysis of a Product or Service (In Progress)
 
 ## Skills & Concepts
 
@@ -42,7 +42,6 @@ Throughout this course, I have worked with several important machine learning co
 - Python programming
 - Exploratory data analysis
 - Data cleaning and preprocessing
-- Feature preparation
 - Regression and classification
 - Model training and evaluation
 - Bias and variance
@@ -69,7 +68,7 @@ Throughout this course, I have worked with several important machine learning co
 
 For my midterm project, I completed an end-to-end machine learning investigation using the Titanic dataset. I explored the data, prepared it for machine learning, trained classification models, and evaluated their performance.
 
-I compared Logistic Regression and a Decision Tree Classifier. Logistic Regression achieved approximately **81% accuracy**, while the Decision Tree achieved approximately **75% accuracy**.
+I compared Logistic Regression and a Decision Tree Classifier. Logistic Regression achieved approximately 81% accuracy, while the Decision Tree achieved approximately 75% accuracy.
 
 The project helped me understand how exploratory data analysis, preprocessing, model selection, and evaluation work together as parts of a complete machine learning workflow.
 
@@ -83,28 +82,6 @@ I also learned that a more complex model does not automatically mean a better mo
 
 This portfolio represents my progress throughout the course and highlights the technical, analytical, and problem-solving skills I developed along the way.
 
-## Repository Structure
+## Current Status
 
-```text
-Raelon-Reed-ML-Course/
-│
-├── README.md
-│
-├── Labs/
-│   ├── Lab02-Tools-of-the-Trade/
-│   ├── Lab03-Introduction/
-│   ├── Lab04-Exploratory-Data-Analysis/
-│   ├── Lab05-Data-Preparation/
-│   ├── Lab06-Regression-and-Classification/
-│   ├── Lab07-Model-Evaluation/
-│   ├── Lab08-Bias-Variance-Tradeoff/
-│   ├── Lab09-Ensemble-Methods/
-│   ├── Lab10-Unsupervised-Learning/
-│   ├── Lab11-Hyperparameter-Tuning-and-AutoML/
-│   ├── Lab12-Ethics-Fairness-and-Bias/
-│   └── Lab13-Building-ML-Pipelines/
-│
-└── Assignments/
-    ├── A01-GitHub-First-Repository/
-    ├── Midterm-Data-Storytelling/
-    └── Final-Sentiment-Analysis/
+This portfolio will be updated with my Final Sentiment Analysis project once it is completed.
