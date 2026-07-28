@@ -2,58 +2,34 @@
 
 ## Raelon Reed
 
-Welcome to my Machine Learning course portfolio. This repository contains the labs, assignments, and projects I completed throughout ITAI 1371.
+**Course:** Introduction to Machine Learning (ITAI 1371)
+
+Welcome to my Machine Learning course portfolio. This repository documents my learning journey throughout the course and showcases the labs, assignments, and final project I completed while building foundational machine learning skills.
+
+---
 
 ## About Me
 
-My name is Raelon Reed, and I am currently pursuing an Associate in Applied Science with a focus on Artificial Intelligence. I also hold a Bachelor's degree in Psychology.
+I am currently pursuing an Associate of Applied Science in Artificial Intelligence. Through this course, I gained hands-on experience with Python, data preprocessing, machine learning algorithms, and model evaluation. My goal is to continue expanding my knowledge of artificial intelligence and apply these skills to real-world problems.
 
-My interest in machine learning comes from wanting to better understand how artificial intelligence can use data to recognize patterns, make predictions, and solve real-world problems. Throughout this course, I have gained hands-on experience using Python while developing a better understanding of the complete machine learning process.
+---
 
-## Portfolio Overview
+## Skills Developed
 
-This portfolio documents my progress throughout the course. Each lab and major assignment includes documentation explaining what I worked on, what I learned, and the challenges I encountered.
+Throughout this course I learned how to:
 
-### Machine Learning Labs
+- Prepare and clean datasets
+- Perform exploratory data analysis (EDA)
+- Build machine learning models
+- Evaluate classification models
+- Apply regression and classification techniques
+- Perform sentiment analysis using Natural Language Processing (NLP)
+- Compare machine learning models using evaluation metrics
+- Build reproducible machine learning workflows
 
-- Lab 02 – Tools of the Trade
-- Lab 03 – Introduction to Machine Learning
-- Lab 04 – Exploratory Data Analysis
-- Lab 05 – Data Preparation
-- Lab 06 – Regression and Classification
-- Lab 07 – Model Evaluation
-- Lab 08 – Bias-Variance Tradeoff
-- Lab 09 – Ensemble Methods
-- Lab 10 – Unsupervised Learning
-- Lab 11 – Hyperparameter Tuning and AutoML
-- Lab 12 – Ethics, Fairness, and Bias
-- Lab 13 – Building Machine Learning Pipelines
+---
 
-### Assignments & Projects
-
-- A01 – Getting Started with GitHub & Your First Repository
-- Midterm Project – Data Storytelling
-- Final Project – Sentiment Analysis of a Product or Service (In Progress)
-
-## Skills & Concepts
-
-Throughout this course, I have worked with several important machine learning concepts, including:
-
-- Python programming
-- Exploratory data analysis
-- Data cleaning and preprocessing
-- Regression and classification
-- Model training and evaluation
-- Bias and variance
-- Ensemble learning
-- Unsupervised learning
-- Hyperparameter tuning
-- AutoML
-- Ethics, fairness, and bias in AI
-- Data leakage prevention
-- Machine learning pipelines
-
-## Tools & Technologies
+## Technologies Used
 
 - Python
 - Jupyter Notebook
@@ -62,26 +38,64 @@ Throughout this course, I have worked with several important machine learning co
 - NumPy
 - Scikit-learn
 - Matplotlib
+- NLTK
+- TF-IDF Vectorization
+- Git
 - GitHub
 
-## Featured Project – Data Storytelling
+---
 
-For my midterm project, I completed an end-to-end machine learning investigation using the Titanic dataset. I explored the data, prepared it for machine learning, trained classification models, and evaluated their performance.
+## Repository Structure
 
-I compared Logistic Regression and a Decision Tree Classifier. Logistic Regression achieved approximately 81% accuracy, while the Decision Tree achieved approximately 75% accuracy.
+```text
+Raelon-Reed-ML-Course
+│
+├── Labs
+│   ├── Lab02 – Tools of the Trade
+│   ├── Lab03 – Introduction
+│   ├── ...
+│
+├── Assignments
+│   ├── GitHub First Repository
+│   ├── Midterm – Data Storytelling
+│   └── Final Project – Sentiment Analysis
+```
 
-The project helped me understand how exploratory data analysis, preprocessing, model selection, and evaluation work together as parts of a complete machine learning workflow.
+---
 
-## Course Reflection
+## Featured Project
 
-Throughout this course, I developed a stronger understanding of machine learning and the process required to move from raw data to a trained and evaluated model.
+### Final Project – Sentiment Analysis
 
-One of my biggest takeaways was learning that machine learning involves much more than selecting an algorithm. Data preparation, exploratory analysis, model evaluation, preventing data leakage, and building consistent workflows are all important parts of developing reliable machine learning solutions.
+For my final project, I developed and evaluated machine learning models capable of classifying customer reviews into Positive, Neutral, and Negative sentiment categories. Using TF-IDF vectorization with Logistic Regression and Multinomial Naive Bayes, I compared model performance using accuracy, precision, recall, F1-score, and confusion matrices.
 
-I also learned that a more complex model does not automatically mean a better model. Evaluating results and understanding why a model performs the way it does are just as important as training the model itself.
+Key concepts demonstrated include:
 
-This portfolio represents my progress throughout the course and highlights the technical, analytical, and problem-solving skills I developed along the way.
+- Text preprocessing
+- Feature engineering
+- Machine learning classification
+- Model comparison
+- Performance evaluation
 
-## Current Status
+---
 
-This portfolio will be updated with my Final Sentiment Analysis project once it is completed.
+## Course Highlights
+
+Some of the topics explored during this course include:
+
+- Data preprocessing
+- Exploratory Data Analysis
+- Regression
+- Classification
+- Model evaluation
+- Ensemble learning
+- Hyperparameter tuning
+- Unsupervised learning
+- Ethics, fairness, and bias
+- Machine learning pipelines
+
+---
+
+## Reflection
+
+This portfolio represents the work I have completed throughout my Introduction to Machine Learning course. Each lab and assignment helped reinforce my understanding of the machine learning workflow, from preparing data to analyzing and evaluating predictive models. I look forward to adding onto these skills in future artificial intelligence and data science projects.
